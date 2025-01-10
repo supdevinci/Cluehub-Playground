@@ -1,7 +1,5 @@
-# Forensic Challenge 2010
 
 ## Challenge 1 - Analyse d'une trace réseau d'attaque  
-(Challenge fourni par Tillmann Werner du Giraffe Chapter)  
 L'objectif est d'enquêter sur une attaque réseau.
 
 ### Niveau de compétence : Intermédiaire
