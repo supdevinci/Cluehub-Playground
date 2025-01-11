@@ -15,5 +15,3 @@ The commpressed archive
 
 The memory dump
 + MD5 hash: b9fec1a443907d870cb32b048bda9380
-
-Please follow the [flag submission rules](https://github.com/stuxnet999/MemLabs#flag-submission) when sending the email for solution verification.
