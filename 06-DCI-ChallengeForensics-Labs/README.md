@@ -65,6 +65,3 @@ Ex:
 ```python
 password = md5('flag1,flag2,flag3').hexdigest()
 ```
-
-## Sources
-* Challenges 1-5 : [Hackerfire](https://ctf.hackerfire.com)
