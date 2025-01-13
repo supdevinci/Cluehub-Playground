@@ -1,27 +1,4 @@
-<img src="./Images/MemLabs.png" alt="MemLabs" class="center">
 
----
-
-## **Table of contents**
-
-1. [About MemLabs](https://github.com/stuxnet999/MemLabs#About-MemLabs-mag)
-2. [Motivation](https://github.com/stuxnet999/MemLabs#motivation-dart)
-3. [Structure of Repository](https://github.com/stuxnet999/MemLabs#structure-of-repository)
-4. [Tools and Frameworks](https://github.com/stuxnet999/MemLabs#tools-and-frameworks-hammer_and_wrench)
-5. [Flag Submission](https://github.com/stuxnet999/MemLabs#flag-submission-triangular_flag_on_post)
-   - [Email Format](https://github.com/stuxnet999/MemLabs#email-format)
-6. [Resources](https://github.com/stuxnet999/MemLabs#resources-rocket)
-7. [Feedback & suggestions](https://github.com/stuxnet999/MemLabs#feedback--suggestions)
-8. [Usage](https://github.com/stuxnet999/MemLabs#usage)
-9. [Author](https://github.com/stuxnet999/MemLabs#author-bust_in_silhouette)
-
-## **About MemLabs** :mag:
-
-MemLabs is an educational, introductory set of CTF-styled challenges which is aimed to encourage students, security researchers and also CTF players to get started with the field of **Memory Forensics**.
-
-## **Motivation** :dart:
-
-The main goal of creating this repository was to provide a reliable platform where individuals can learn, practice and enhance their skills in the field of memory forensics. As of the CTF-style, well, what better & interesting way to learn security than by playing CTFs?
 
 I also believe these labs can be used by anyone to help others become good with the essentials and fundamentals of memory forensics.
 
@@ -36,8 +13,6 @@ I also believe these labs can be used by anyone to help others become good with 
 |Lab 4 | [Obsession](./Lab%204) | Medium |
 |Lab 5 | [Black Tuesday](./Lab%205) | Medium - Hard |
 |Lab 6 | [The Reckoning](./Lab%206) | Hard |
-
-To aid first-timers to understand how to approach CTF challenges & usage of volatility, please refer [Lab 0](https://github.com/stuxnet999/MemLabs/tree/master/Lab%200) which comes with a elaborate walkthrough & I hope it will be a great way to start MemLabs!
 
 All the memory dumps are that of a Windows system.
 
@@ -57,7 +32,6 @@ The preferred OS would be Linux. However, you can also use Windows (WSL) or macO
 
 ## **Flag submission** :triangular_flag_on_post:
 
-Please mail the flags of each lab to <memlabs.submit@gmail.com>
 
 Please have a look at the following example to better understand how to submit the solution.
 
@@ -72,24 +46,6 @@ Concatenate all the flags like this: **flag{stage1_is_n0w_d0n3} flag{stage2_is_n
 **Note**: Place the flags in the right order. The content inside the flags indicates their place. The flags must be space-separated.
 
 All the labs will follow the same flag format unless specified otherwise.
-
-### **Email format**
-
-Please follow the following guidelines when sending the solution. Below is a sample:
-
-**Email Subject**: [MemLabs Solution Submission] [Lab-x]
-
-> **x** indicates the Lab number. Ex: 1,2,3 etc..
-
-![Email-Picture](./Images/Submission.png)
-
-Email your solution to memlabs.submit@gmail.com
-
-If the solution is correct, then the participant will receive a confirmation mail.
-
-## **Feedback & suggestions**
-
-I'd love the community's feedback regarding these labs. Any suggestions or improvements are always welcome. Please email it to me or contact my via Twitter: [@_abhiramkumar](https://www.twitter.com/_abhiramkumar).
 
 ## **Resources** :rocket:
 
@@ -108,16 +64,3 @@ If you are interested in knowing how to write plugins for Volatility framework,
 + https://stuxnet999.github.io/volatility/2020/07/04/Writing-Plugins-Volatility.html
 + https://stuxnet999.github.io/volatility/2020/08/08/Writing-Plugins-Volatility-Part2.html
 
-## **Usage**
-
-MemLabs is completely free to anyone to use. If you wish to use MemLabs in your workshops, classes or use the labs anywhere else, it is my humble request to you to use the original links to the labs and please mention my name as well. For any other queries, please contact me.
-
-## **Author** :bust_in_silhouette:
-
-P. Abhiram Kumar
-
-Digital Forensics, [**Team bi0s**](https://www.twitter.com/teambi0s)
-
-+ Mail: **abhiram1999@gmail.com**
-+ Twitter: [**@_abhiramkumar**](https://www.twitter.com/_abhiramkumar)
-+ Personal Blog: [**stuxnet999.github.io**](https://stuxnet999.github.io)
