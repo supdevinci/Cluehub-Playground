@@ -1,7 +1,3 @@
-
-
-I also believe these labs can be used by anyone to help others become good with the essentials and fundamentals of memory forensics.
-
 ## **Structure of repository**
 
 | Directory | Challenge Name | Level Of Difficulty |
