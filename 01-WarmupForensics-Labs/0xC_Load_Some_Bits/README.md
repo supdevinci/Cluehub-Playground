@@ -1,24 +1,27 @@
-# Load Some Bits
+# Lab 1 - Chance pour des Débutants
 
-## Description
+## Description du challenge
 
-Pouvez-vous trouver le drapeau encodé à l'intérieur de cette image ?
+L’ordinateur de ma sœur a planté. Heureusement, nous avons pu récupérer un dump mémoire. Votre mission est de retrouver tous ses fichiers importants à partir du système.  
+D’après ce dont nous nous souvenons, une fenêtre noire est soudainement apparue avec quelque chose en cours d’exécution.  
+Au moment du crash, elle essayait de dessiner quelque chose. C’est tout ce que nous savons.  
 
----
-
-## Instructions
-
-1. Téléchargez l'image `pico2018-special-logo.bmp` située dans ce répertoire.
-2. Utilisez des outils ou écrivez un script pour analyser les **Least Significant Bits (LSB)** de l'image.
-3. Décodez les informations cachées et récupérez le drapeau.
+> **Note** : Ce challenge comporte **3 flags**.
 
 ---
 
-## Objectif
+## Fichier du challenge
 
-Ce challenge vous initie à l'analyse des images en explorant les bits de poids faible pour découvrir des données encodées, une technique courante en stéganographie.
+- **Nom du fichier** : `Lab1`
 
 ---
 
-### À noter :
-La manipulation des bits de poids faible est une méthode couramment utilisée pour dissimuler des informations dans des fichiers multimédias. Ce challenge est une introduction à ces techniques en forensic.
+## Hash du fichier compressé
+
+- **MD5** : `919a0ded944c427b7f4e5c26a6790e8d`
+
+---
+
+## Hash du dump mémoire
+
+- **MD5** : `b9fec1a443907d870cb32b048bda9380`
