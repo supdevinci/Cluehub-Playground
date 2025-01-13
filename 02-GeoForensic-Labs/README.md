@@ -31,8 +31,8 @@ sudo apt-get install docker-compose
 ### 2. Cloner le projet
 Clonez le dépôt contenant le fichier `docker-compose.yml` :
 ```bash
-git clone https://your-repository-url.git
-cd your-repository-folder
+git clone https://github.com/supdevinci/Cluehub-Playgroundgit
+cd 02-GeoForensic-Labs
 ```
 
 ### 3. Lancer l'application
