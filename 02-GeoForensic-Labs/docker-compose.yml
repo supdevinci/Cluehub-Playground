@@ -1,0 +1,7 @@
+version: '3.9'
+
+services:
+  earthwalker:
+    image: registry.gitlab.com/glatteis/earthwalker
+    ports:
+      - "7080:8080" # Mappe le port local 7080 au port 8080 du conteneur
