@@ -63,7 +63,7 @@ Nous suspectons qu’un **disque USB** a été utilisé pour pénétrer dans le 
 3. Entrez la réponse correcte au format `flag{domaine}`.
 
 
-# Analyse Forensique : Malware en Mémoire
+# Analyse Forensique : Malware en Mémoire  # PARTIE 3
 
 ### Difficulté : ⭐⭐⭐☆☆
 
