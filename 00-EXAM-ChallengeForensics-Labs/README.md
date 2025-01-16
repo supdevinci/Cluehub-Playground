@@ -52,7 +52,6 @@ Nous suspectons qu’un **disque USB** a été utilisé pour pénétrer dans le 
 ### Ressource disponible :
 
 - Fichier : [usb_mn.img]()
-  - **Hash MD5** : `89F07A13CB850CA1001333EF5F3289B3`
 
 ---
 
