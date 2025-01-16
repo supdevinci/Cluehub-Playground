@@ -138,7 +138,6 @@ L'équipe **Forensique** a détecté un trafic inhabituel provenant d'une machin
 ### Ressource disponible :
 
 - Fichier : [Incident_lab.pcap](Incident_lab.pcap)
-  - **Hash MD5** : `ec0f42c44117118f2533db383be98ed1`
 
 ---
 
