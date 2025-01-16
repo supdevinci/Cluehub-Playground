@@ -31,6 +31,8 @@ Pour approfondir l'enquête, un **dump de mémoire** (`memory.1221191d.img`) a �
 2. Réalisez une analyse forensique approfondie pour identifier la vulnérabilité utilisée.
 3. Envoyez la réponse correcte au format `flag{md5}`.
 
+---
+
 # Analyse Forensique : Disque USB # PARTIE 2
 
 ### Difficulté : ⭐☆☆☆☆
@@ -62,6 +64,7 @@ Nous suspectons qu’un **disque USB** a été utilisé pour pénétrer dans le 
 2. Réalisez une analyse forensique pour identifier le domaine utilisé par l'attaquant.
 3. Entrez la réponse correcte au format `flag{domaine}`.
 
+---
 
 # Analyse Forensique : Malware en Mémoire  # PARTIE 3
 
@@ -94,6 +97,8 @@ Un **malware** aurait été installé sur un ordinateur de l'organisation. Pour 
 2. Réalisez une analyse approfondie pour identifier le flag.
 3. Entrez la réponse correcte au format `flag{md5}`.
 
+---
+
 # Analyse Forensique : Détection des Ransomwares  # PARTIE 4
 
 ### Difficulté : ⭐☆☆☆☆
@@ -115,3 +120,38 @@ Votre mission est de déterminer le **nom de la famille de ransomware** responsa
 **Quel est le nom de la famille de ransomware responsable de l'incident ?**  
 *(Réponse en minuscules)*
 
+---
+
+# Analyse Forensique : Trafic Inhabituel  # PARTIE 5
+
+### Difficulté : ⭐⭐☆☆☆
+
+---
+
+### Description :
+
+L'équipe **Threat Hunting** a détecté un trafic inhabituel provenant d'une machine. Votre mission est de déterminer si ce trafic est lié à un **logiciel malveillant** et de trouver le flag correspondant.
+
+---
+
+### Question :
+
+**Quel est le flag associé à ce trafic inhabituel ?**
+
+---
+
+### Ressource disponible :
+
+- Fichier : [Incident_lab.pcap](Incident_lab.pcap)
+  - **Hash MD5** : `ec0f42c44117118f2533db383be98ed1`
+
+---
+
+### Instructions :
+
+1. Téléchargez le fichier PCAP.
+2. Analysez le trafic réseau pour repérer des indices ou des comportements malveillants.
+3. Identifiez et trouvez le flag.
+4. Expliquez le trafic.
+
+---
