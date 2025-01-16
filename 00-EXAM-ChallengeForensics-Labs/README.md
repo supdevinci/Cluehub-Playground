@@ -31,9 +31,6 @@ Pour approfondir l'enquête, un **dump de mémoire** (`memory.1221191d.img`) a �
 2. Réalisez une analyse forensique approfondie pour identifier la vulnérabilité utilisée.
 3. Envoyez la réponse correcte au format `flag{md5}`.
 
-
-Bonne chance dans votre analyse !
-
 # Analyse Forensique : Disque USB # PARTIE 2
 
 ### Difficulté : ⭐☆☆☆☆
@@ -65,4 +62,35 @@ Nous suspectons qu’un **disque USB** a été utilisé pour pénétrer dans le 
 2. Réalisez une analyse forensique pour identifier le domaine utilisé par l'attaquant.
 3. Entrez la réponse correcte au format `flag{domaine}`.
 
-Bonne chance et merci pour votre aide précieuse !
+
+# Analyse Forensique : Malware en Mémoire
+
+### Difficulté : ⭐⭐⭐☆☆
+
+---
+
+### Description :
+
+Un **malware** aurait été installé sur un ordinateur de l'organisation. Pour approfondir l'enquête, un **dump de mémoire** a été réalisé sur les équipements concernés. Votre mission est d'analyser ce dump de mémoire afin d’identifier le flag nécessaire pour résoudre ce défi.
+
+---
+
+### Question :
+
+**Quel est le flag associé au malware trouvé dans la mémoire ?**
+
+---
+
+### Ressource disponible :
+
+- Fichier : [goliath.7z]()
+  - **Hash MD5** : `54728891AFE5332E06AB66C2927987B5`
+
+---
+
+### Instructions :
+
+1. Téléchargez et décompressez le fichier contenant le dump de mémoire.
+2. Réalisez une analyse approfondie pour identifier le flag.
+3. Entrez la réponse correcte au format `flag{md5}`.
+
