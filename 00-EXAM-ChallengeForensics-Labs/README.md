@@ -21,7 +21,6 @@ Pour approfondir l'enquête, un **dump de mémoire** (`memory.img`) a été effe
 ### Ressource disponible :
 
 - Fichier : [memory.img.zip]()
-  - **Hash SHA256** : `9452fd27235597dc3bdb09c1b9f2a76a`
 
 ---
 
