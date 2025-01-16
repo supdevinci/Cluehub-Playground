@@ -33,3 +33,36 @@ Pour approfondir l'enquête, un **dump de mémoire** (`memory.1221191d.img`) a �
 
 
 Bonne chance dans votre analyse !
+
+# Analyse Forensique : Disque USB # PARTIE 2
+
+### Difficulté : ⭐☆☆☆☆
+
+---
+
+### Description :
+
+Nous suspectons qu’un **disque USB** a été utilisé pour pénétrer dans le réseau d’Oscorp. Votre mission est d’identifier le **domaine utilisé par l’attaquant** dans le cadre de cette intrusion. L’analyse approfondie du fichier image du disque USB est cruciale pour découvrir ces informations.
+
+---
+
+### Question :
+
+**Quel est le domaine utilisé par l'attaquant ?**
+
+---
+
+### Ressource disponible :
+
+- Fichier : [usb_mn.img]()
+  - **Hash MD5** : `89F07A13CB850CA1001333EF5F3289B3`
+
+---
+
+### Instructions :
+
+1. Téléchargez le fichier image du disque USB.
+2. Réalisez une analyse forensique pour identifier le domaine utilisé par l'attaquant.
+3. Entrez la réponse correcte au format `flag{domaine}`.
+
+Bonne chance et merci pour votre aide précieuse !
