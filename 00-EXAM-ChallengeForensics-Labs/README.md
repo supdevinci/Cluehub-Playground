@@ -94,3 +94,24 @@ Un **malware** aurait été installé sur un ordinateur de l'organisation. Pour 
 2. Réalisez une analyse approfondie pour identifier le flag.
 3. Entrez la réponse correcte au format `flag{md5}`.
 
+# Analyse Forensique : Détection des Ransomwares  # PARTIE 4
+
+### Difficulté : ⭐☆☆☆☆
+
+---
+
+### Description :
+
+L'antivirus de notre organisation a détecté un **ransomware** sur un ordinateur et l'a arrêté. Dans le rapport généré par l'antivirus, le **hachage MD5** correspondant au malware a été identifié :
+
+`07fadb006486953439ce0092651fd7a6`
+
+Votre mission est de déterminer le **nom de la famille de ransomware** responsable de cet incident.
+
+---
+
+### Question :
+
+**Quel est le nom de la famille de ransomware responsable de l'incident ?**  
+*(Réponse en minuscules)*
+
