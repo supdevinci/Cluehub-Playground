@@ -29,7 +29,6 @@ Pour approfondir l'enquête, un **dump de mémoire** (`memory.1221191d.img`) a �
 
 1. Téléchargez le fichier de dump mémoire.
 2. Réalisez une analyse forensique approfondie pour identifier la vulnérabilité utilisée.
-3. Envoyez la réponse correcte au format `flag{md5}`.
 
 ---
 
@@ -62,7 +61,6 @@ Nous suspectons qu’un **disque USB** a été utilisé pour pénétrer dans le 
 
 1. Téléchargez le fichier image du disque USB.
 2. Réalisez une analyse forensique pour identifier le domaine utilisé par l'attaquant.
-3. Entrez la réponse correcte au format `flag{domaine}`.
 
 ---
 
@@ -95,7 +93,6 @@ Un **malware** aurait été installé sur un ordinateur de l'organisation. Pour 
 
 1. Téléchargez et décompressez le fichier contenant le dump de mémoire.
 2. Réalisez une analyse approfondie pour identifier le flag.
-3. Entrez la réponse correcte au format `flag{md5}`.
 
 ---
 
