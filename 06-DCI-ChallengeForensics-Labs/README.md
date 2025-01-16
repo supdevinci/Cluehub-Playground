@@ -48,15 +48,6 @@ Voyez si vous pouvez trouver le mot de passe utilisé par un utilisateur lorsqu'
 
 * [7.zip [312KB]](https://drive.google.com/open?id=1iVm83Jh7ex6YhFtAiGub08UclRfu_hY3)
 
-### Challenge 8 - A big dump (part 1)
-> John était dans le processus de copier/coller des données confidentielles lorsque son ordinateur a crash. Heureusement, un core dump a été enregistré par le système à ce moment.
-
-* [memdump.zip [472MB]](https://drive.google.com/open?id=1PGQTbDzc7SWJ9fXTj0-KnRawJHRdvzYu)
-
-### Challenge 9 - A big dump (part 2)
-> John doit absolument récupérer la donnée confidentielle qu'il était en train de rechercher sur Bing lors du crash.
-
-* Même fichier que le challenge 8.
 
 ## Solutions
 Le mot de passe pour le fichier zip de solutions est le md5 hexdigest de tous les flags concaténés par des virgules.
