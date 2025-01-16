@@ -40,7 +40,7 @@ Pour approfondir l'enquête, un **dump de mémoire** (`memory.1221191d.img`) a �
 
 ### Description :
 
-Nous suspectons qu’un **disque USB** a été utilisé pour pénétrer dans le réseau d’Oscorp. Votre mission est d’identifier le **domaine utilisé par l’attaquant** dans le cadre de cette intrusion. L’analyse approfondie du fichier image du disque USB est cruciale pour découvrir ces informations.
+Nous suspectons qu’un **disque USB** a été utilisé pour pénétrer dans le réseau de WorldCorp. Votre mission est d’identifier le **domaine utilisé par l’attaquant** dans le cadre de cette intrusion. L’analyse approfondie du fichier image du disque USB est cruciale pour découvrir ces informations.
 
 ---
 
@@ -127,7 +127,7 @@ Votre mission est de déterminer le **nom de la famille de ransomware** responsa
 
 ### Description :
 
-L'équipe **Threat Hunting** a détecté un trafic inhabituel provenant d'une machine. Votre mission est de déterminer si ce trafic est lié à un **logiciel malveillant** et de trouver le flag correspondant.
+L'équipe **Forensique** a détecté un trafic inhabituel provenant d'une machine. Votre mission est de déterminer si ce trafic est lié à un **logiciel malveillant** et de trouver le flag correspondant.
 
 ---
 
