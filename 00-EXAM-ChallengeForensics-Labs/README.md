@@ -20,7 +20,7 @@ Pour approfondir l'enquête, un **dump de mémoire** (`memory.img`) a été effe
 
 ### Ressource disponible :
 
-- Fichier : [memory.img.zip]()
+- Fichier : [memory.img.zip](https://drive.google.com/file/d/1y0RCexulSf8J-SSJ8V--5sGJwQMGkjdo/view?usp=drive_link)
 
 ---
 
@@ -82,8 +82,7 @@ Un **malware** aurait été installé sur un ordinateur de l'organisation. Pour 
 
 ### Ressource disponible :
 
-- Fichier : [goliath.7z]()
-  - **Hash MD5** : `54728891AFE5332E06AB66C2927987B5`
+- Fichier : [goliath.7z](https://drive.google.com/file/d/1FVA2ubGfqX2ehYD_gnh2nbf0jZkAoZDW/view?usp=drive_link)
 
 ---
 
@@ -137,7 +136,7 @@ L'équipe **Forensique** a détecté un trafic inhabituel provenant d'une machin
 
 ### Ressource disponible :
 
-- Fichier : [Incident_lab.pcap](Incident_lab.pcap)
+- Fichier : [Incident_lab.pcap]([Incident_lab.pcap](https://drive.google.com/file/d/1V2J6hJlAoFRW0VPq8PgY0jJMO1dc_FFp/view?usp=drive_link))
 
 ---
 
