@@ -20,7 +20,7 @@ Pour approfondir l'enquête, un **dump de mémoire** (`memory.img`) a été effe
 
 ### Ressource disponible :
 
-- Fichier : [memory.img.zip](https://drive.google.com/file/d/1y0RCexulSf8J-SSJ8V--5sGJwQMGkjdo/view?usp=drive_link)
+- Fichier : [memory.img.zip]((https://drive.google.com/file/d/1y0RCexulSf8J-SSJ8V--5sGJwQMGkjdo/view?usp=drive_link))
 
 ---
 
