@@ -70,19 +70,21 @@ Nous suspectons qu’un **disque USB** a été utilisé pour pénétrer dans le 
 
 ### Description :
 
-Un **malware** aurait été installé sur un ordinateur de l'organisation. Pour approfondir l'enquête, un **dump de mémoire** a été réalisé sur les équipements concernés. Votre mission est d'analyser ce dump de mémoire afin d’identifier le flag nécessaire pour résoudre ce défi.
+L'équipe Blue Team a signalé un pic inhabituel de trafic provenant d'une machine dans REXLAB. Le fichier 7z joint contient certains des artefacts collectés à partir de cette machine. Nous devons identifier le binaire nuisible pour l'analyser.
+
+Objectif : identifier les binaires malveillants. (e.g. : cmd.exe)
 
 ---
 
 ### Question :
 
-**Quel est le flag associé au malware trouvé dans la mémoire ?**
+**Quel est le flag associé au malware trouvé?**
 
 ---
 
 ### Ressource disponible :
 
-- Fichier : [goliath.7z](https://drive.google.com/file/d/1FVA2ubGfqX2ehYD_gnh2nbf0jZkAoZDW/view?usp=drive_link)
+- Fichier : https://drive.google.com/file/d/1OdgGYT0e2kh4phOSaFTM7MgMSujGmIDv/view?usp=drive_link
 
 ---
 
