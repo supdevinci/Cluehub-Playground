@@ -51,7 +51,7 @@ Nous suspectons qu’un **disque USB** a été utilisé pour pénétrer dans le 
 
 ### Ressource disponible :
 
-- Fichier : [usb_mn.img](https://drive.google.com/file/d/1RWrjc1ZYWBkDJBAXvSJ6A_15xFnTnqUc/view?usp=drive_link)
+- Fichier : [usb_mn.img]([https://drive.google.com/file/d/1RWrjc1ZYWBkDJBAXvSJ6A_15xFnTnqUc/view?usp=drive_link](https://drive.google.com/file/d/12Y21S9fP9l7Sa8ijCIxVHZipPI_6SamH/view?usp=drive_link))
 
 ---
 
@@ -136,7 +136,7 @@ L'équipe **Forensique** a détecté un trafic inhabituel provenant d'une machin
 
 ### Ressource disponible :
 
-- Fichier : [Incident_lab.pcap]([Incident_lab.pcap](https://drive.google.com/file/d/1V2J6hJlAoFRW0VPq8PgY0jJMO1dc_FFp/view?usp=drive_link))
+- Fichier : [Incident_lab.pcap](https://drive.google.com/file/d/1V2J6hJlAoFRW0VPq8PgY0jJMO1dc_FFp/view?usp=drive_link)
 
 ---
 
