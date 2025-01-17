@@ -51,7 +51,7 @@ Nous suspectons qu’un **disque USB** a été utilisé pour pénétrer dans le 
 
 ### Ressource disponible :
 
-- Fichier : [usb_mn.img]()
+- Fichier : [usb_mn.img](https://drive.google.com/file/d/1RWrjc1ZYWBkDJBAXvSJ6A_15xFnTnqUc/view?usp=drive_link)
 
 ---
 
