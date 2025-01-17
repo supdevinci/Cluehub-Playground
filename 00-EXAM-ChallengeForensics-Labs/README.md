@@ -124,13 +124,13 @@ Votre mission est de déterminer le **nom de la famille de ransomware** responsa
 
 ### Description :
 
-L'équipe **Forensique** a détecté un trafic inhabituel provenant d'une machine. Votre mission est de déterminer si ce trafic est lié à un **logiciel malveillant** et de trouver le flag correspondant.
+L'équipe **Forensique** a détecté un trafic inhabituel provenant d'une machine. Votre mission est de déterminer si ce trafic est lié à un **logiciel malveillant** et de trouver l'ID correspondant.
 
 ---
 
 ### Question :
 
-**Quel est le flag associé à ce trafic inhabituel ?**
+**Quel est l'ID associé à ce trafic inhabituel ?**
 
 ---
 
